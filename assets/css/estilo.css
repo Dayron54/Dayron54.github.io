@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt&display=swap');
+
+.titulo {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 5rem;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    text-indent: 0%;
+
+}
+.parrafo{
+    font-family:'Prompt', sans-serif;
+    font-size: 1rem;
+    font-style: italic;
+    white-space:pre-linel;
+    background-color: aqua;
+    width: 20rem;
+  border-left: 3px solid black;
+  border-right: 5px dotted red;
+  border-top: 8px double blue;
+  border-bottom: 4px dashed green;
+  margin-left: 25%;
+  border-radius:15px;
+  height: 100px; width: 300px; border-radius: 50%;
+}
