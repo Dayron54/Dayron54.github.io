@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
-#inicio
+#inicio,#Estudios,#Habilidades,#Proyectos
 {
     font-family: 'Acme', sans-serif;
 }
@@ -15,8 +15,4 @@ img
 {
     width: 67%;
     margin-left: -10%;
-}
-#Estudios,#Habilidades,#Proyectos
-{
-    font-family: 'Acme', sans-serif;
 }
