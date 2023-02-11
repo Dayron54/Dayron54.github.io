@@ -1,7 +1,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
-#titulo{
+#inicio
+{
     font-family: 'Acme', sans-serif;
 }
-li a{
+#titulo
+{
+    font-family: 'Acme', sans-serif;
+}
+li a
+{
     color: black;
+}
+img
+{
+    width: 67%;
+    margin-left: -10%;
+}
+#Estudios,#Habilidades,#Proyectos
+{
+    font-family: 'Acme', sans-serif;
 }
