@@ -1,7 +1,23 @@
 @import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
-#inicio,#Estudios,#Habilidades,#Proyectos
+#inicio,#Estudios,#Habilidades,#Proyectos,#tituloConocimientos
 {
     font-family: 'Acme', sans-serif;
+}
+#inicio
+{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
+#contenido
+{
+    margin-top: 60px;
+}
+#infoConocimientos
+{
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+    padding-bottom: 3px;
 }
 #titulo,h5
 {
